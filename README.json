@@ -268,7 +268,7 @@
             "last_commit": "2026-08-13T16:26:10Z",
             "owner": "movim",
             "repo": "movim",
-            "stars": 2039
+            "stars": 2041
           }
         },
         {
@@ -295,7 +295,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T18:12:38.117Z",
+    "last_updated": "2026-08-14T18:10:10.622Z",
     "original_repository": "bluszcz/awesome-xmpp",
     "original_repository_sha": "7351f75ac252421b28ca28731990ae659f6e60a7",
     "enhanced_repository": "enhansome/enhansome-xmpp",
