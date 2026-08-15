@@ -27,7 +27,7 @@ XMPP is an open XML technology for real-time communication, which powers a wide 
 
 ## Clients
 
-* [Dino](https://github.com/dino/dino) ⭐ 2,476 | 🐛 679 | 🌐 Vala | 📅 2026-08-05 - Modern Jabber/XMPP Client using GTK+/Vala.
+* [Dino](https://github.com/dino/dino) ⭐ 2,475 | 🐛 679 | 🌐 Vala | 📅 2026-08-05 - Modern Jabber/XMPP Client using GTK+/Vala.
 * [Xabber Android](https://github.com/redsolution/xabber-android) ⭐ 1,810 | 🐛 273 | 🌐 Java | 📅 2026-01-21 - Android version of Xabber
 * [Coyim](https://github.com/coyim/coyim) ⭐ 615 | 🐛 69 | 🌐 Go | 📅 2026-07-10 - Safe and secure chat client.
 * [Xabber Web](https://github.com/redsolution/xabber-web) ⭐ 137 | 🐛 23 | 🌐 JavaScript | 📅 2026-03-12 - Web version of Xabber.
@@ -124,4 +124,4 @@ To the extent possible under law, [Rafal Zawadzki](https://bluszcz.net) has waiv
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
