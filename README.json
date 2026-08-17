@@ -265,7 +265,7 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-08-16T14:29:56Z",
+            "last_commit": "2026-08-17T07:27:14Z",
             "owner": "movim",
             "repo": "movim",
             "stars": 2041
@@ -295,7 +295,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T17:39:34.163Z",
+    "last_updated": "2026-08-17T17:49:15.688Z",
     "original_repository": "bluszcz/awesome-xmpp",
     "original_repository_sha": "7351f75ac252421b28ca28731990ae659f6e60a7",
     "enhanced_repository": "enhansome/enhansome-xmpp",
