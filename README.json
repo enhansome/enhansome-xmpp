@@ -96,7 +96,7 @@
             "last_commit": "2024-04-22T16:30:51Z",
             "owner": "robbiehanson",
             "repo": "XMPPFramework",
-            "stars": 5881
+            "stars": 5880
           }
         },
         {
@@ -295,7 +295,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T17:49:15.688Z",
+    "last_updated": "2026-08-18T17:48:44.976Z",
     "original_repository": "bluszcz/awesome-xmpp",
     "original_repository_sha": "7351f75ac252421b28ca28731990ae659f6e60a7",
     "enhanced_repository": "enhansome/enhansome-xmpp",
