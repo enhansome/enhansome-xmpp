@@ -27,7 +27,7 @@ XMPP is an open XML technology for real-time communication, which powers a wide 
 
 ## Clients
 
-* [Dino](https://github.com/dino/dino) ⭐ 2,474 | 🐛 679 | 🌐 Vala | 📅 2026-08-05 - Modern Jabber/XMPP Client using GTK+/Vala.
+* [Dino](https://github.com/dino/dino) ⭐ 2,475 | 🐛 679 | 🌐 Vala | 📅 2026-08-05 - Modern Jabber/XMPP Client using GTK+/Vala.
 * [Xabber Android](https://github.com/redsolution/xabber-android) ⭐ 1,810 | 🐛 273 | 🌐 Java | 📅 2026-01-21 - Android version of Xabber
 * [Coyim](https://github.com/coyim/coyim) ⭐ 615 | 🐛 69 | 🌐 Go | 📅 2026-07-10 - Safe and secure chat client.
 * [Xabber Web](https://github.com/redsolution/xabber-web) ⭐ 137 | 🐛 23 | 🌐 JavaScript | 📅 2026-03-12 - Web version of Xabber.
@@ -60,7 +60,7 @@ XMPP is an open XML technology for real-time communication, which powers a wide 
 * [Ejabberd](https://www.ejabberd.im/) - Distributed fault-tolerant Jabber server which is mainly written in Erlang.
 * [Jabberd2](http://jabberd2.org/) - Next generation of the jabberd project, c++.
 * [Metronome](https://metronome.im/) - Fork of Prosody server, more complete with a dual license.
-* [MongooseIM](https://github.com/esl/MongooseIM) ⭐ 1,749 | 🐛 31 | 🌐 Erlang | 📅 2026-08-19 - XMPP server at the core of an Instant Messaging platform
+* [MongooseIM](https://github.com/esl/MongooseIM) ⭐ 1,749 | 🐛 30 | 🌐 Erlang | 📅 2026-08-20 - XMPP server at the core of an Instant Messaging platform
 * [Openfire](https://www.igniterealtime.org/projects/openfire/) - XMPP server written in Java.
 * [Prosody](https://prosody.im/) - Lightweight, open source Jabber server, written in Lua.
 * [Snikket](https://snikket.org/) - All-in-one Dockerized easy XMPP solution, including web admin and clients.
@@ -124,4 +124,4 @@ To the extent possible under law, [Rafal Zawadzki](https://bluszcz.net) has waiv
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
