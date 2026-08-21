@@ -12,7 +12,7 @@
             "archived": false,
             "id": 83687700,
             "language": "Vala",
-            "last_commit": "2026-08-05T12:38:18Z",
+            "last_commit": "2026-08-21T16:19:24Z",
             "owner": "dino",
             "repo": "dino",
             "stars": 2475
@@ -96,7 +96,7 @@
             "last_commit": "2024-04-22T16:30:51Z",
             "owner": "robbiehanson",
             "repo": "XMPPFramework",
-            "stars": 5880
+            "stars": 5879
           }
         },
         {
@@ -108,7 +108,7 @@
             "archived": false,
             "id": 686537,
             "language": "JavaScript",
-            "last_commit": "2026-04-13T12:20:30Z",
+            "last_commit": "2026-08-21T05:52:17Z",
             "owner": "xmppjs",
             "repo": "xmpp.js",
             "stars": 2273
@@ -279,7 +279,7 @@
             "last_commit": "2026-08-19T06:32:45Z",
             "owner": "movim",
             "repo": "movim",
-            "stars": 2042
+            "stars": 2041
           }
         },
         {
@@ -302,7 +302,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T17:51:06.209Z",
+    "last_updated": "2026-08-21T17:50:50.744Z",
     "original_repository": "bluszcz/awesome-xmpp",
     "original_repository_id": 81465143,
     "original_repository_sha": "7351f75ac252421b28ca28731990ae659f6e60a7",
