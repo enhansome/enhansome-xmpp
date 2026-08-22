@@ -96,7 +96,7 @@
             "last_commit": "2024-04-22T16:30:51Z",
             "owner": "robbiehanson",
             "repo": "XMPPFramework",
-            "stars": 5879
+            "stars": 5878
           }
         },
         {
@@ -276,10 +276,10 @@
             "archived": false,
             "id": 37983532,
             "language": "PHP",
-            "last_commit": "2026-08-19T06:32:45Z",
+            "last_commit": "2026-08-22T14:17:31Z",
             "owner": "movim",
             "repo": "movim",
-            "stars": 2041
+            "stars": 2042
           }
         },
         {
@@ -302,7 +302,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T17:50:50.744Z",
+    "last_updated": "2026-08-22T17:41:17.199Z",
     "original_repository": "bluszcz/awesome-xmpp",
     "original_repository_id": 81465143,
     "original_repository_sha": "7351f75ac252421b28ca28731990ae659f6e60a7",
