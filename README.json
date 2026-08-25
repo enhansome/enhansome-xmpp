@@ -15,7 +15,7 @@
             "last_commit": "2026-08-21T16:19:24Z",
             "owner": "dino",
             "repo": "dino",
-            "stars": 2479
+            "stars": 2480
           }
         },
         {
@@ -111,7 +111,7 @@
             "last_commit": "2026-08-21T05:52:17Z",
             "owner": "xmppjs",
             "repo": "xmpp.js",
-            "stars": 2273
+            "stars": 2274
           }
         },
         {
@@ -279,7 +279,7 @@
             "last_commit": "2026-08-24T10:37:59Z",
             "owner": "movim",
             "repo": "movim",
-            "stars": 2047
+            "stars": 2048
           }
         },
         {
@@ -302,7 +302,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:20:38.134Z",
+    "last_updated": "2026-08-25T17:50:04.561Z",
     "original_repository": "bluszcz/awesome-xmpp",
     "original_repository_id": 81465143,
     "original_repository_sha": "7351f75ac252421b28ca28731990ae659f6e60a7",
