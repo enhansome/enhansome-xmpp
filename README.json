@@ -111,7 +111,7 @@
             "last_commit": "2026-08-21T05:52:17Z",
             "owner": "xmppjs",
             "repo": "xmpp.js",
-            "stars": 2274
+            "stars": 2275
           }
         },
         {
@@ -276,10 +276,10 @@
             "archived": false,
             "id": 37983532,
             "language": "PHP",
-            "last_commit": "2026-08-24T10:37:59Z",
+            "last_commit": "2026-08-26T19:00:39Z",
             "owner": "movim",
             "repo": "movim",
-            "stars": 2048
+            "stars": 2049
           }
         },
         {
@@ -302,7 +302,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T17:50:04.561Z",
+    "last_updated": "2026-08-26T19:22:33.753Z",
     "original_repository": "bluszcz/awesome-xmpp",
     "original_repository_id": 81465143,
     "original_repository_sha": "7351f75ac252421b28ca28731990ae659f6e60a7",
