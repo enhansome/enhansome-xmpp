@@ -60,7 +60,7 @@ XMPP is an open XML technology for real-time communication, which powers a wide 
 * [Ejabberd](https://www.ejabberd.im/) - Distributed fault-tolerant Jabber server which is mainly written in Erlang.
 * [Jabberd2](http://jabberd2.org/) - Next generation of the jabberd project, c++.
 * [Metronome](https://metronome.im/) - Fork of Prosody server, more complete with a dual license.
-* [MongooseIM](https://github.com/esl/MongooseIM) ⭐ 1,750 | 🐛 31 | 🌐 Erlang | 📅 2026-08-26 - XMPP server at the core of an Instant Messaging platform
+* [MongooseIM](https://github.com/esl/MongooseIM) ⭐ 1,751 | 🐛 31 | 🌐 Erlang | 📅 2026-08-27 - XMPP server at the core of an Instant Messaging platform
 * [Openfire](https://www.igniterealtime.org/projects/openfire/) - XMPP server written in Java.
 * [Prosody](https://prosody.im/) - Lightweight, open source Jabber server, written in Lua.
 * [Snikket](https://snikket.org/) - All-in-one Dockerized easy XMPP solution, including web admin and clients.
@@ -124,4 +124,4 @@ To the extent possible under law, [Rafal Zawadzki](https://bluszcz.net) has waiv
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._

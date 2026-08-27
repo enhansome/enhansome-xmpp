@@ -302,9 +302,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T19:22:33.753Z",
-    "original_repository": "bluszcz/awesome-xmpp",
-    "original_repository_id": 81465143,
+    "last_updated": "2026-08-27T12:14:29.326Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 81465143,
+      "language": null,
+      "last_commit": "2025-08-01T11:30:55Z",
+      "owner": "bluszcz",
+      "repo": "awesome-xmpp",
+      "stars": 376
+    },
     "original_repository_sha": "7351f75ac252421b28ca28731990ae659f6e60a7",
     "enhanced_repository": "enhansome/enhansome-xmpp",
     "enhanced_repository_description": null,
