@@ -10,12 +10,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Modern XMPP (\"Jabber\") Chat Client using GTK/Vala",
+            "homepage": "https://dino.im/",
             "id": 83687700,
             "language": "Vala",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-21T16:19:24Z",
+            "open_issues": 680,
             "owner": "dino",
             "repo": "dino",
-            "stars": 2480
+            "stars": 2480,
+            "topics": [
+              "chat",
+              "dino",
+              "groupchat",
+              "gtk",
+              "gtk4",
+              "jabber",
+              "jabber-client",
+              "jingle",
+              "linux-desktop",
+              "messenger",
+              "omemo",
+              "p2p",
+              "vala",
+              "voip",
+              "xml",
+              "xmpp",
+              "xmpp-client"
+            ]
           },
           "first_seen": "2026-08-29T01:00:53.011Z"
         },
@@ -26,12 +49,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open-source XMPP client for Android",
+            "homepage": "http://xabber.com",
             "id": 7891564,
             "language": "Java",
+            "license": "NOASSERTION",
             "last_commit": "2026-01-21T20:00:13Z",
+            "open_issues": 273,
             "owner": "redsolution",
             "repo": "xabber-android",
-            "stars": 1810
+            "stars": 1810,
+            "topics": [
+              "android",
+              "chat",
+              "java",
+              "messenger",
+              "mobile",
+              "otr",
+              "xabber",
+              "xmpp",
+              "xmpp-client"
+            ]
           },
           "first_seen": "2026-08-29T01:00:53.011Z"
         },
@@ -42,12 +80,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "coyim - a safe and secure chat client",
+            "homepage": "https://coy.im",
             "id": 42521988,
             "language": "Go",
+            "license": "NOASSERTION",
             "last_commit": "2026-07-10T19:26:40Z",
+            "open_issues": 69,
             "owner": "coyim",
             "repo": "coyim",
-            "stars": 615
+            "stars": 615,
+            "topics": [
+              "anonymity",
+              "coyim",
+              "desktop",
+              "encrypt",
+              "golang",
+              "instant-messaging",
+              "multiplatform",
+              "otr",
+              "privacy",
+              "security",
+              "tor",
+              "xmpp"
+            ]
           },
           "first_seen": "2026-08-29T01:00:53.011Z"
         },
@@ -58,12 +114,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open source XMPP client for Web",
+            "homepage": null,
             "id": 99154411,
             "language": "JavaScript",
+            "license": "AGPL-3.0",
             "last_commit": "2026-03-12T07:07:32Z",
+            "open_issues": 23,
             "owner": "redsolution",
             "repo": "xabber-web",
-            "stars": 137
+            "stars": 137,
+            "topics": [
+              "chat",
+              "jabber",
+              "javascript",
+              "messenger",
+              "webclient",
+              "xabber",
+              "xmpp",
+              "xmpp-client"
+            ]
           },
           "first_seen": "2026-08-29T01:00:53.011Z"
         },
@@ -74,12 +144,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "simple jabber client",
+            "homepage": null,
             "id": 11089874,
             "language": "C",
+            "license": null,
             "last_commit": "2026-05-14T14:25:53Z",
+            "open_issues": 4,
             "owner": "younix",
             "repo": "sj",
-            "stars": 40
+            "stars": 40,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:00:53.011Z"
         }
@@ -96,12 +171,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An XMPP Framework in Objective-C for Mac and iOS",
+            "homepage": null,
             "id": 1549207,
             "language": "Objective-C",
+            "license": "NOASSERTION",
             "last_commit": "2024-04-22T16:30:51Z",
+            "open_issues": 554,
             "owner": "robbiehanson",
             "repo": "XMPPFramework",
-            "stars": 5878
+            "stars": 5878,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:00:53.011Z"
         },
@@ -112,12 +192,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "XMPP for JavaScript",
+            "homepage": null,
             "id": 686537,
             "language": "JavaScript",
+            "license": "ISC",
             "last_commit": "2026-08-21T05:52:17Z",
+            "open_issues": 36,
             "owner": "xmppjs",
             "repo": "xmpp.js",
-            "stars": 2275
+            "stars": 2275,
+            "topics": [
+              "browser",
+              "chat",
+              "client",
+              "component",
+              "javascript",
+              "node",
+              "nodejs",
+              "react-native",
+              "real-time",
+              "xmpp"
+            ]
           },
           "first_seen": "2026-08-29T01:00:53.011Z"
         },
@@ -128,12 +224,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Python 2.6+/3.1+ XMPP Library",
+            "homepage": "http://groups.google.com/group/sleekxmpp-discussion",
             "id": 463405,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2020-02-18T22:54:58Z",
+            "open_issues": 141,
             "owner": "fritzy",
             "repo": "SleekXMPP",
-            "stars": 1097
+            "stars": 1097,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:00:53.011Z"
         },
@@ -144,12 +245,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "(M) Martin - XMPP client library for Swift",
+            "homepage": null,
             "id": 183068821,
             "language": "Swift",
+            "license": "NOASSERTION",
             "last_commit": "2026-06-11T18:27:58Z",
+            "open_issues": 9,
             "owner": "tigase",
             "repo": "Martin",
-            "stars": 78
+            "stars": 78,
+            "topics": [
+              "apple",
+              "client",
+              "instant-messaging",
+              "jabber",
+              "library",
+              "presence",
+              "swift",
+              "tigase-swift",
+              "xmpp"
+            ]
           },
           "first_seen": "2026-08-29T01:00:53.011Z"
         },
@@ -160,12 +276,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Java XMPP client library",
+            "homepage": "https://tigase.net/",
             "id": 183595426,
             "language": "Java",
+            "license": "AGPL-3.0",
             "last_commit": "2025-08-26T15:43:32Z",
+            "open_issues": 1,
             "owner": "tigase",
             "repo": "jaxmpp",
-            "stars": 41
+            "stars": 41,
+            "topics": [
+              "android",
+              "chat",
+              "instant-messaging",
+              "jabber",
+              "java",
+              "library",
+              "xmpp"
+            ]
           },
           "first_seen": "2026-08-29T01:00:53.011Z"
         },
@@ -176,12 +305,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "XMPP implementation for Python",
+            "homepage": "http://pyxmpp.jajcus.net/",
             "id": 1695970,
             "language": "Python",
+            "license": "LGPL-2.1",
             "last_commit": "2016-08-12T07:23:24Z",
+            "open_issues": 6,
             "owner": "Jajcus",
             "repo": "pyxmpp",
-            "stars": 28
+            "stars": 28,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:00:53.011Z"
         },
@@ -192,12 +326,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Java library for XMPP clients using JAXB",
+            "homepage": "http://docs.xmpp.rocks",
             "id": 426259870,
             "language": "Java",
+            "license": "MIT",
             "last_commit": "2023-01-08T22:33:09Z",
+            "open_issues": 36,
             "owner": "sco0ter",
             "repo": "babbler",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:00:53.011Z"
         }
@@ -214,12 +353,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "XMPP bot that posts commit summaries to MUCs.",
+            "homepage": "http://github.com/metajack/commitbot/tree/master",
             "id": 85148,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2013-09-13T16:21:51Z",
+            "open_issues": 0,
             "owner": "metajack",
             "repo": "commitbot",
-            "stars": 52
+            "stars": 52,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:00:53.011Z"
         },
@@ -230,12 +374,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A XMPP MUC notification bot for new issues, loosely based on https://github.com/metajack/commitbot.",
+            "homepage": "http://blog.velcommuta.de/2013/introducing-issuebot-a-jabber-muc-notification-bot-for-github/",
             "id": 12842026,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2013-10-11T10:14:04Z",
+            "open_issues": 6,
             "owner": "malexmave",
             "repo": "issuebot",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:00:53.011Z"
         }
@@ -252,12 +401,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "XMPP Console - A tool for XMPP hackers",
+            "homepage": "https://github.com/xmppo/xmppconsole",
             "id": 256252207,
             "language": "C",
+            "license": "GPL-3.0",
             "last_commit": "2020-10-18T17:40:44Z",
+            "open_issues": 0,
             "owner": "xmppo",
             "repo": "xmppconsole",
-            "stars": 21
+            "stars": 21,
+            "topics": [
+              "jabber",
+              "xmpp"
+            ]
           },
           "first_seen": "2026-08-29T01:00:53.011Z"
         },
@@ -268,12 +425,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Utilities for OMEMO media sharing.",
+            "homepage": null,
             "id": 254733500,
             "language": "C",
+            "license": "MIT",
             "last_commit": "2026-05-12T06:38:17Z",
+            "open_issues": 1,
             "owner": "wstrm",
             "repo": "omemo-utils",
-            "stars": 9
+            "stars": 9,
+            "topics": [
+              "omemo"
+            ]
           },
           "first_seen": "2026-08-29T01:00:53.011Z"
         }
@@ -290,12 +454,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Movim - Decentralized social platform",
+            "homepage": "https://movim.eu",
             "id": 37983532,
             "language": "PHP",
+            "license": "AGPL-3.0",
             "last_commit": "2026-08-28T16:22:15Z",
+            "open_issues": 41,
             "owner": "movim",
             "repo": "movim",
-            "stars": 2049
+            "stars": 2049,
+            "topics": [
+              "chat",
+              "instant-messaging",
+              "movim",
+              "php",
+              "social-network",
+              "xmpp"
+            ]
           },
           "first_seen": "2026-08-29T01:00:53.011Z"
         },
@@ -306,12 +482,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "IRC gateway for XMPP",
+            "homepage": "https://biboumi.louiz.org",
             "id": 22964349,
             "language": "C++",
+            "license": "Zlib",
             "last_commit": "2022-03-10T22:24:51Z",
+            "open_issues": 7,
             "owner": "louiz",
             "repo": "biboumi",
-            "stars": 90
+            "stars": 90,
+            "topics": [
+              "c-plus-plus",
+              "gateway",
+              "irc",
+              "xmpp"
+            ]
           },
           "first_seen": "2026-08-29T01:00:53.011Z"
         }
@@ -320,15 +506,27 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T01:00:53.011Z",
+    "last_updated": "2026-08-29T04:46:06.338Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of delightful XMPP related resources.",
+      "homepage": null,
       "id": 81465143,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2025-08-01T11:30:55Z",
+      "open_issues": 13,
       "owner": "bluszcz",
       "repo": "awesome-xmpp",
-      "stars": 378
+      "stars": 378,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "awesome-xmpp",
+        "hacktoberfest",
+        "hacktoberfest2019",
+        "xmpp"
+      ]
     },
     "original_repository_sha": "7351f75ac252421b28ca28731990ae659f6e60a7",
     "enhanced_repository": "enhansome/enhansome-xmpp",
