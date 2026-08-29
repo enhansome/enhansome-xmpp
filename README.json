@@ -16,7 +16,8 @@
             "owner": "dino",
             "repo": "dino",
             "stars": 2480
-          }
+          },
+          "first_seen": "2026-08-29T01:00:53.011Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "redsolution",
             "repo": "xabber-android",
             "stars": 1810
-          }
+          },
+          "first_seen": "2026-08-29T01:00:53.011Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "coyim",
             "repo": "coyim",
             "stars": 615
-          }
+          },
+          "first_seen": "2026-08-29T01:00:53.011Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "redsolution",
             "repo": "xabber-web",
             "stars": 137
-          }
+          },
+          "first_seen": "2026-08-29T01:00:53.011Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "younix",
             "repo": "sj",
             "stars": 40
-          }
+          },
+          "first_seen": "2026-08-29T01:00:53.011Z"
         }
       ],
       "title": "Clients"
@@ -97,7 +102,8 @@
             "owner": "robbiehanson",
             "repo": "XMPPFramework",
             "stars": 5878
-          }
+          },
+          "first_seen": "2026-08-29T01:00:53.011Z"
         },
         {
           "node_type": "item",
@@ -112,7 +118,8 @@
             "owner": "xmppjs",
             "repo": "xmpp.js",
             "stars": 2275
-          }
+          },
+          "first_seen": "2026-08-29T01:00:53.011Z"
         },
         {
           "node_type": "item",
@@ -127,7 +134,8 @@
             "owner": "fritzy",
             "repo": "SleekXMPP",
             "stars": 1097
-          }
+          },
+          "first_seen": "2026-08-29T01:00:53.011Z"
         },
         {
           "node_type": "item",
@@ -142,7 +150,8 @@
             "owner": "tigase",
             "repo": "Martin",
             "stars": 78
-          }
+          },
+          "first_seen": "2026-08-29T01:00:53.011Z"
         },
         {
           "node_type": "item",
@@ -157,7 +166,8 @@
             "owner": "tigase",
             "repo": "jaxmpp",
             "stars": 41
-          }
+          },
+          "first_seen": "2026-08-29T01:00:53.011Z"
         },
         {
           "node_type": "item",
@@ -172,7 +182,8 @@
             "owner": "Jajcus",
             "repo": "pyxmpp",
             "stars": 28
-          }
+          },
+          "first_seen": "2026-08-29T01:00:53.011Z"
         },
         {
           "node_type": "item",
@@ -187,7 +198,8 @@
             "owner": "sco0ter",
             "repo": "babbler",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-29T01:00:53.011Z"
         }
       ],
       "title": "Libraries"
@@ -208,7 +220,8 @@
             "owner": "metajack",
             "repo": "commitbot",
             "stars": 52
-          }
+          },
+          "first_seen": "2026-08-29T01:00:53.011Z"
         },
         {
           "node_type": "item",
@@ -223,7 +236,8 @@
             "owner": "malexmave",
             "repo": "issuebot",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-29T01:00:53.011Z"
         }
       ],
       "title": "Bots"
@@ -244,7 +258,8 @@
             "owner": "xmppo",
             "repo": "xmppconsole",
             "stars": 21
-          }
+          },
+          "first_seen": "2026-08-29T01:00:53.011Z"
         },
         {
           "node_type": "item",
@@ -259,7 +274,8 @@
             "owner": "wstrm",
             "repo": "omemo-utils",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-29T01:00:53.011Z"
         }
       ],
       "title": "Tools"
@@ -276,11 +292,12 @@
             "archived": false,
             "id": 37983532,
             "language": "PHP",
-            "last_commit": "2026-08-27T22:06:33Z",
+            "last_commit": "2026-08-28T16:22:15Z",
             "owner": "movim",
             "repo": "movim",
             "stars": 2049
-          }
+          },
+          "first_seen": "2026-08-29T01:00:53.011Z"
         },
         {
           "node_type": "item",
@@ -295,14 +312,15 @@
             "owner": "louiz",
             "repo": "biboumi",
             "stars": 90
-          }
+          },
+          "first_seen": "2026-08-29T01:00:53.011Z"
         }
       ],
       "title": "Advanced Usages"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T01:32:07.342Z",
+    "last_updated": "2026-08-29T01:00:53.011Z",
     "original_repository_info": {
       "archived": false,
       "id": 81465143,
@@ -310,7 +328,7 @@
       "last_commit": "2025-08-01T11:30:55Z",
       "owner": "bluszcz",
       "repo": "awesome-xmpp",
-      "stars": 376
+      "stars": 378
     },
     "original_repository_sha": "7351f75ac252421b28ca28731990ae659f6e60a7",
     "enhanced_repository": "enhansome/enhansome-xmpp",
