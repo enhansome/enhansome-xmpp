@@ -28,7 +28,7 @@ XMPP is an open XML technology for real-time communication, which powers a wide 
 ## Clients
 
 * [Dino](https://github.com/dino/dino) ⭐ 2,486 | 🐛 682 | 🌐 Vala | 📅 2026-08-21 - Modern Jabber/XMPP Client using GTK+/Vala.
-* [Xabber Android](https://github.com/redsolution/xabber-android) ⭐ 1,810 | 🐛 273 | 🌐 Java | 📅 2026-01-21 - Android version of Xabber
+* [Xabber Android](https://github.com/redsolution/xabber-android) ⭐ 1,811 | 🐛 273 | 🌐 Java | 📅 2026-01-21 - Android version of Xabber
 * [Coyim](https://github.com/coyim/coyim) ⭐ 615 | 🐛 69 | 🌐 Go | 📅 2026-07-10 - Safe and secure chat client.
 * [Xabber Web](https://github.com/redsolution/xabber-web) ⭐ 137 | 🐛 23 | 🌐 JavaScript | 📅 2026-03-12 - Web version of Xabber.
 * [sj](https://github.com/younix/sj) ⭐ 40 | 🐛 4 | 🌐 C | 📅 2026-05-14 - simple jabber client
@@ -71,11 +71,11 @@ XMPP is an open XML technology for real-time communication, which powers a wide 
 
 ## Libraries
 
-* [XMPPFramework](https://github.com/robbiehanson/XMPPFramework) ⭐ 5,878 | 🐛 554 | 🌐 Objective-C | 📅 2024-04-22 - XMPP Framework in Objective-C for the Mac and iOS
-* [xmpp.js](https://github.com/xmppjs/xmpp.js) ⭐ 2,275 | 🐛 33 | 🌐 JavaScript | 📅 2026-09-03 - XMPP for JavaScript.
+* [XMPPFramework](https://github.com/robbiehanson/XMPPFramework) ⭐ 5,876 | 🐛 554 | 🌐 Objective-C | 📅 2024-04-22 - XMPP Framework in Objective-C for the Mac and iOS
+* [xmpp.js](https://github.com/xmppjs/xmpp.js) ⭐ 2,274 | 🐛 33 | 🌐 JavaScript | 📅 2026-09-03 - XMPP for JavaScript.
 * [SleekXMPP](https://github.com/fritzy/SleekXMPP) ⚠️ Archived - Python 2.6+/3.1+ XMPP Library.
 * [Tigase Swift](https://github.com/tigaseinc/tigase-swift) ⭐ 78 | 🐛 9 | 🌐 Swift | 📅 2026-06-11 - Tigase Swift XMPP client library
-* [JaXMPP](https://github.com/tigaseinc/jaxmpp) ⭐ 42 | 🐛 1 | 🌐 Java | 📅 2025-08-26 - Java XMPP client library
+* [JaXMPP](https://github.com/tigaseinc/jaxmpp) ⭐ 43 | 🐛 1 | 🌐 Java | 📅 2025-08-26 - Java XMPP client library
 * [PyXMPP](https://github.com/Jajcus/pyxmpp) ⚠️ Archived - Python Jabber/XMPP implementation.
 * [Babbler](https://github.com/sco0ter/babbler) ⭐ 8 | 🐛 36 | 🌐 Java | 📅 2023-01-08 - a young Java XMPP client library based on JAXB.
 * [Swiften](https://swift.im/swiften.html) - Cross-platform, and performant C++.
@@ -92,7 +92,7 @@ XMPP is an open XML technology for real-time communication, which powers a wide 
 
 ## Tools
 
-* [xmpp-console](https://github.com/pasis/xmppconsole) ⭐ 21 | 🐛 0 | 🌐 C | 📅 2020-10-18 - Send raw XMPP stanzas and display streams.
+* [xmpp-console](https://github.com/pasis/xmppconsole) ⭐ 22 | 🐛 0 | 🌐 C | 📅 2020-10-18 - Send raw XMPP stanzas and display streams.
 * [omemo-utils](https://github.com/wstrm/omemo-utils) ⭐ 9 | 🐛 1 | 🌐 C | 📅 2026-05-12 - Utilities for OMEMO media sharing.
 * [Cloud Seeder](https://ipv6.rs/cloudseeder) - 1-click installer and maintenance suite to run an XMPP server on your Windows, MacOS or Linux computer.
 * [xmpp-dns](https://salsa.debian.org/mdosch/xmpp-dns) - A CLI tool to check XMPP SRV records.
@@ -124,4 +124,4 @@ To the extent possible under law, [Rafal Zawadzki](https://bluszcz.net) has waiv
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._

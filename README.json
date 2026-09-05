@@ -58,7 +58,7 @@
             "open_issues": 273,
             "owner": "redsolution",
             "repo": "xabber-android",
-            "stars": 1810,
+            "stars": 1811,
             "topics": [
               "android",
               "chat",
@@ -180,7 +180,7 @@
             "open_issues": 554,
             "owner": "robbiehanson",
             "repo": "XMPPFramework",
-            "stars": 5878,
+            "stars": 5876,
             "topics": []
           },
           "first_seen": "2026-08-29T01:00:53.011Z"
@@ -201,7 +201,7 @@
             "open_issues": 33,
             "owner": "xmppjs",
             "repo": "xmpp.js",
-            "stars": 2275,
+            "stars": 2274,
             "topics": [
               "browser",
               "chat",
@@ -285,7 +285,7 @@
             "open_issues": 1,
             "owner": "tigase",
             "repo": "jaxmpp",
-            "stars": 42,
+            "stars": 43,
             "topics": [
               "android",
               "chat",
@@ -410,7 +410,7 @@
             "open_issues": 0,
             "owner": "xmppo",
             "repo": "xmppconsole",
-            "stars": 21,
+            "stars": 22,
             "topics": [
               "jabber",
               "xmpp"
@@ -506,7 +506,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T19:41:31.309Z",
+    "last_updated": "2026-09-05T19:07:21.830Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of delightful XMPP related resources.",
@@ -518,7 +518,7 @@
       "open_issues": 13,
       "owner": "bluszcz",
       "repo": "awesome-xmpp",
-      "stars": 379,
+      "stars": 380,
       "topics": [
         "awesome",
         "awesome-list",
