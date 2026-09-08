@@ -16,7 +16,7 @@
             "language": "Vala",
             "license": "GPL-3.0",
             "last_commit": "2026-08-21T16:19:24Z",
-            "open_issues": 683,
+            "open_issues": 684,
             "owner": "dino",
             "repo": "dino",
             "stars": 2486,
@@ -201,7 +201,7 @@
             "open_issues": 33,
             "owner": "xmppjs",
             "repo": "xmpp.js",
-            "stars": 2274,
+            "stars": 2275,
             "topics": [
               "browser",
               "chat",
@@ -506,7 +506,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T20:39:22.202Z",
+    "last_updated": "2026-09-08T19:57:16.043Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of delightful XMPP related resources.",
@@ -518,7 +518,7 @@
       "open_issues": 13,
       "owner": "bluszcz",
       "repo": "awesome-xmpp",
-      "stars": 380,
+      "stars": 379,
       "topics": [
         "awesome",
         "awesome-list",
