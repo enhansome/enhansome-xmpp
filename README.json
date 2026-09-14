@@ -250,7 +250,7 @@
             "id": 183068821,
             "language": "Swift",
             "license": "NOASSERTION",
-            "last_commit": "2026-06-11T18:27:58Z",
+            "last_commit": "2026-09-14T14:01:21Z",
             "open_issues": 9,
             "owner": "tigase",
             "repo": "Martin",
@@ -281,7 +281,7 @@
             "id": 183595426,
             "language": "Java",
             "license": "AGPL-3.0",
-            "last_commit": "2025-08-26T15:43:32Z",
+            "last_commit": "2026-09-14T13:46:25Z",
             "open_issues": 1,
             "owner": "tigase",
             "repo": "jaxmpp",
@@ -459,8 +459,8 @@
             "id": 37983532,
             "language": "PHP",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-11T14:26:19Z",
-            "open_issues": 46,
+            "last_commit": "2026-09-14T19:53:29Z",
+            "open_issues": 44,
             "owner": "movim",
             "repo": "movim",
             "stars": 2053,
@@ -506,7 +506,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T19:32:26.579Z",
+    "last_updated": "2026-09-14T20:58:40.189Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of delightful XMPP related resources.",
