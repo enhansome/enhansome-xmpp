@@ -459,8 +459,8 @@
             "id": 37983532,
             "language": "PHP",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-21T06:23:58Z",
-            "open_issues": 43,
+            "last_commit": "2026-09-22T06:33:20Z",
+            "open_issues": 41,
             "owner": "movim",
             "repo": "movim",
             "stars": 2055,
@@ -506,7 +506,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T21:08:21.370Z",
+    "last_updated": "2026-09-22T20:15:12.478Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of delightful XMPP related resources.",
