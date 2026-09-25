@@ -506,7 +506,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T20:33:22.706Z",
+    "last_updated": "2026-09-25T20:33:00.135Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of delightful XMPP related resources.",
@@ -518,7 +518,7 @@
       "open_issues": 13,
       "owner": "bluszcz",
       "repo": "awesome-xmpp",
-      "stars": 382,
+      "stars": 383,
       "topics": [
         "awesome",
         "awesome-list",
