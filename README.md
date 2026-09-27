@@ -27,7 +27,7 @@ XMPP is an open XML technology for real-time communication, which powers a wide 
 
 ## Clients
 
-* [Dino](https://github.com/dino/dino) ⭐ 2,492 | 🐛 686 | 🌐 Vala | 📅 2026-08-21 - Modern Jabber/XMPP Client using GTK+/Vala.
+* [Dino](https://github.com/dino/dino) ⭐ 2,494 | 🐛 686 | 🌐 Vala | 📅 2026-08-21 - Modern Jabber/XMPP Client using GTK+/Vala.
 * [Xabber Android](https://github.com/redsolution/xabber-android) ⭐ 1,811 | 🐛 273 | 🌐 Java | 📅 2026-01-21 - Android version of Xabber
 * [Coyim](https://github.com/coyim/coyim) ⭐ 616 | 🐛 69 | 🌐 Go | 📅 2026-07-10 - Safe and secure chat client.
 * [Xabber Web](https://github.com/redsolution/xabber-web) ⭐ 137 | 🐛 23 | 🌐 JavaScript | 📅 2026-03-12 - Web version of Xabber.
@@ -71,7 +71,7 @@ XMPP is an open XML technology for real-time communication, which powers a wide 
 
 ## Libraries
 
-* [XMPPFramework](https://github.com/robbiehanson/XMPPFramework) ⭐ 5,873 | 🐛 553 | 🌐 Objective-C | 📅 2024-04-22 - XMPP Framework in Objective-C for the Mac and iOS
+* [XMPPFramework](https://github.com/robbiehanson/XMPPFramework) ⭐ 5,874 | 🐛 553 | 🌐 Objective-C | 📅 2024-04-22 - XMPP Framework in Objective-C for the Mac and iOS
 * [xmpp.js](https://github.com/xmppjs/xmpp.js) ⭐ 2,279 | 🐛 34 | 🌐 JavaScript | 📅 2026-09-03 - XMPP for JavaScript.
 * [SleekXMPP](https://github.com/fritzy/SleekXMPP) ⚠️ Archived - Python 2.6+/3.1+ XMPP Library.
 * [Tigase Swift](https://github.com/tigaseinc/tigase-swift) ⭐ 77 | 🐛 9 | 🌐 Swift | 📅 2026-09-14 - Tigase Swift XMPP client library
@@ -99,7 +99,7 @@ XMPP is an open XML technology for real-time communication, which powers a wide 
 
 ## Advanced Usages
 
-* [Movim](https://github.com/movim/movim) ⭐ 2,057 | 🐛 42 | 🌐 PHP | 📅 2026-09-23 - Distributed social network built on top of XMPP.
+* [Movim](https://github.com/movim/movim) ⭐ 2,057 | 🐛 41 | 🌐 PHP | 📅 2026-09-27 - Distributed social network built on top of XMPP.
 * [Biboumi](https://github.com/louiz/biboumi) ⭐ 90 | 🐛 7 | 🌐 C++ | 📅 2022-03-10 - IRC gateway for XMPP.
 * [eagle](https://codeberg.org/eagle/eagle) - XMPP Groupware.
 * [go-sendxmpp](https://salsa.debian.org/mdosch/go-sendxmpp) - A little tool to send messages to an XMPP contact or MUC.
@@ -124,4 +124,4 @@ To the extent possible under law, [Rafal Zawadzki](https://bluszcz.net) has waiv
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-27._
