@@ -29,7 +29,7 @@ XMPP is an open XML technology for real-time communication, which powers a wide 
 
 * [Dino](https://github.com/dino/dino) ⭐ 2,494 | 🐛 686 | 🌐 Vala | 📅 2026-08-21 - Modern Jabber/XMPP Client using GTK+/Vala.
 * [Xabber Android](https://github.com/redsolution/xabber-android) ⭐ 1,811 | 🐛 273 | 🌐 Java | 📅 2026-01-21 - Android version of Xabber
-* [Coyim](https://github.com/coyim/coyim) ⭐ 616 | 🐛 69 | 🌐 Go | 📅 2026-07-10 - Safe and secure chat client.
+* [Coyim](https://github.com/coyim/coyim) ⭐ 615 | 🐛 69 | 🌐 Go | 📅 2026-07-10 - Safe and secure chat client.
 * [Xabber Web](https://github.com/redsolution/xabber-web) ⭐ 137 | 🐛 23 | 🌐 JavaScript | 📅 2026-03-12 - Web version of Xabber.
 * [sj](https://github.com/younix/sj) ⭐ 40 | 🐛 4 | 🌐 C | 📅 2026-05-14 - simple jabber client
 * [Adium](https://adium.im/) - Open source multi-protocol instant messaging client for Mac OS X.
@@ -99,7 +99,7 @@ XMPP is an open XML technology for real-time communication, which powers a wide 
 
 ## Advanced Usages
 
-* [Movim](https://github.com/movim/movim) ⭐ 2,057 | 🐛 41 | 🌐 PHP | 📅 2026-09-27 - Distributed social network built on top of XMPP.
+* [Movim](https://github.com/movim/movim) ⭐ 2,057 | 🐛 41 | 🌐 PHP | 📅 2026-09-29 - Distributed social network built on top of XMPP.
 * [Biboumi](https://github.com/louiz/biboumi) ⭐ 90 | 🐛 7 | 🌐 C++ | 📅 2022-03-10 - IRC gateway for XMPP.
 * [eagle](https://codeberg.org/eagle/eagle) - XMPP Groupware.
 * [go-sendxmpp](https://salsa.debian.org/mdosch/go-sendxmpp) - A little tool to send messages to an XMPP contact or MUC.
@@ -124,4 +124,4 @@ To the extent possible under law, [Rafal Zawadzki](https://bluszcz.net) has waiv
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-29._
