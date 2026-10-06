@@ -180,7 +180,7 @@
             "open_issues": 553,
             "owner": "robbiehanson",
             "repo": "XMPPFramework",
-            "stars": 5875,
+            "stars": 5874,
             "topics": []
           },
           "first_seen": "2026-08-29T01:00:53.011Z"
@@ -282,7 +282,7 @@
             "language": "Java",
             "license": "AGPL-3.0",
             "last_commit": "2026-09-14T13:46:25Z",
-            "open_issues": 1,
+            "open_issues": 2,
             "owner": "tigase",
             "repo": "jaxmpp",
             "stars": 43,
@@ -460,7 +460,7 @@
             "language": "PHP",
             "license": "AGPL-3.0",
             "last_commit": "2026-10-05T21:21:01Z",
-            "open_issues": 43,
+            "open_issues": 44,
             "owner": "movim",
             "repo": "movim",
             "stars": 2060,
@@ -506,7 +506,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T11:05:11.601Z",
+    "last_updated": "2026-10-06T21:43:33.776Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of delightful XMPP related resources.",
@@ -518,7 +518,7 @@
       "open_issues": 13,
       "owner": "bluszcz",
       "repo": "awesome-xmpp",
-      "stars": 383,
+      "stars": 384,
       "topics": [
         "awesome",
         "awesome-list",
