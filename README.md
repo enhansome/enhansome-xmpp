@@ -28,7 +28,7 @@ XMPP is an open XML technology for real-time communication, which powers a wide 
 ## Clients
 
 * [Dino](https://github.com/dino/dino) ⭐ 2,495 | 🐛 687 | 🌐 Vala | 📅 2026-08-21 - Modern Jabber/XMPP Client using GTK+/Vala.
-* [Xabber Android](https://github.com/redsolution/xabber-android) ⭐ 1,811 | 🐛 273 | 🌐 Java | 📅 2026-01-21 - Android version of Xabber
+* [Xabber Android](https://github.com/redsolution/xabber-android) ⭐ 1,812 | 🐛 273 | 🌐 Java | 📅 2026-01-21 - Android version of Xabber
 * [Coyim](https://github.com/coyim/coyim) ⭐ 617 | 🐛 70 | 🌐 Go | 📅 2026-07-10 - Safe and secure chat client.
 * [Xabber Web](https://github.com/redsolution/xabber-web) ⭐ 137 | 🐛 23 | 🌐 JavaScript | 📅 2026-03-12 - Web version of Xabber.
 * [sj](https://github.com/younix/sj) ⭐ 40 | 🐛 4 | 🌐 C | 📅 2026-05-14 - simple jabber client
@@ -60,7 +60,7 @@ XMPP is an open XML technology for real-time communication, which powers a wide 
 * [Ejabberd](https://www.ejabberd.im/) - Distributed fault-tolerant Jabber server which is mainly written in Erlang.
 * [Jabberd2](http://jabberd2.org/) - Next generation of the jabberd project, c++.
 * [Metronome](https://metronome.im/) - Fork of Prosody server, more complete with a dual license.
-* [MongooseIM](https://github.com/esl/MongooseIM) ⭐ 1,758 | 🐛 34 | 🌐 Erlang | 📅 2026-10-01 - XMPP server at the core of an Instant Messaging platform
+* [MongooseIM](https://github.com/esl/MongooseIM) ⭐ 1,759 | 🐛 34 | 🌐 Erlang | 📅 2026-10-08 - XMPP server at the core of an Instant Messaging platform
 * [Openfire](https://www.igniterealtime.org/projects/openfire/) - XMPP server written in Java.
 * [Prosody](https://prosody.im/) - Lightweight, open source Jabber server, written in Lua.
 * [Snikket](https://snikket.org/) - All-in-one Dockerized easy XMPP solution, including web admin and clients.
@@ -75,7 +75,7 @@ XMPP is an open XML technology for real-time communication, which powers a wide 
 * [xmpp.js](https://github.com/xmppjs/xmpp.js) ⭐ 2,278 | 🐛 35 | 🌐 JavaScript | 📅 2026-09-03 - XMPP for JavaScript.
 * [SleekXMPP](https://github.com/fritzy/SleekXMPP) ⚠️ Archived - Python 2.6+/3.1+ XMPP Library.
 * [Tigase Swift](https://github.com/tigaseinc/tigase-swift) ⭐ 77 | 🐛 10 | 🌐 Swift | 📅 2026-09-14 - Tigase Swift XMPP client library
-* [JaXMPP](https://github.com/tigaseinc/jaxmpp) ⭐ 43 | 🐛 2 | 🌐 Java | 📅 2026-09-14 - Java XMPP client library
+* [JaXMPP](https://github.com/tigaseinc/jaxmpp) ⭐ 43 | 🐛 2 | 🌐 Java | 📅 2026-10-08 - Java XMPP client library
 * [PyXMPP](https://github.com/Jajcus/pyxmpp) ⚠️ Archived - Python Jabber/XMPP implementation.
 * [Babbler](https://github.com/sco0ter/babbler) ⭐ 8 | 🐛 36 | 🌐 Java | 📅 2023-01-08 - a young Java XMPP client library based on JAXB.
 * [Swiften](https://swift.im/swiften.html) - Cross-platform, and performant C++.
@@ -99,7 +99,7 @@ XMPP is an open XML technology for real-time communication, which powers a wide 
 
 ## Advanced Usages
 
-* [Movim](https://github.com/movim/movim) ⭐ 2,060 | 🐛 44 | 🌐 PHP | 📅 2026-10-07 - Distributed social network built on top of XMPP.
+* [Movim](https://github.com/movim/movim) ⭐ 2,060 | 🐛 43 | 🌐 PHP | 📅 2026-10-08 - Distributed social network built on top of XMPP.
 * [Biboumi](https://github.com/louiz/biboumi) ⭐ 90 | 🐛 7 | 🌐 C++ | 📅 2022-03-10 - IRC gateway for XMPP.
 * [eagle](https://codeberg.org/eagle/eagle) - XMPP Groupware.
 * [go-sendxmpp](https://salsa.debian.org/mdosch/go-sendxmpp) - A little tool to send messages to an XMPP contact or MUC.
@@ -124,4 +124,4 @@ To the extent possible under law, [Rafal Zawadzki](https://bluszcz.net) has waiv
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._

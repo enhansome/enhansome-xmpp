@@ -58,7 +58,7 @@
             "open_issues": 273,
             "owner": "redsolution",
             "repo": "xabber-android",
-            "stars": 1811,
+            "stars": 1812,
             "topics": [
               "android",
               "chat",
@@ -281,7 +281,7 @@
             "id": 183595426,
             "language": "Java",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-14T13:46:25Z",
+            "last_commit": "2026-10-08T14:21:54Z",
             "open_issues": 2,
             "owner": "tigase",
             "repo": "jaxmpp",
@@ -459,8 +459,8 @@
             "id": 37983532,
             "language": "PHP",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-07T11:46:39Z",
-            "open_issues": 44,
+            "last_commit": "2026-10-08T22:10:12Z",
+            "open_issues": 43,
             "owner": "movim",
             "repo": "movim",
             "stars": 2060,
@@ -506,7 +506,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T22:04:50.822Z",
+    "last_updated": "2026-10-08T22:12:02.273Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of delightful XMPP related resources.",
