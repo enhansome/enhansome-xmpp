@@ -254,7 +254,7 @@
             "open_issues": 10,
             "owner": "tigase",
             "repo": "Martin",
-            "stars": 77,
+            "stars": 78,
             "topics": [
               "apple",
               "client",
@@ -459,11 +459,11 @@
             "id": 37983532,
             "language": "PHP",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-08T22:10:12Z",
-            "open_issues": 43,
+            "last_commit": "2026-10-09T09:35:38Z",
+            "open_issues": 42,
             "owner": "movim",
             "repo": "movim",
-            "stars": 2060,
+            "stars": 2061,
             "topics": [
               "chat",
               "instant-messaging",
@@ -506,7 +506,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T22:12:02.273Z",
+    "last_updated": "2026-10-09T21:46:19.098Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of delightful XMPP related resources.",
@@ -518,7 +518,7 @@
       "open_issues": 13,
       "owner": "bluszcz",
       "repo": "awesome-xmpp",
-      "stars": 384,
+      "stars": 385,
       "topics": [
         "awesome",
         "awesome-list",
