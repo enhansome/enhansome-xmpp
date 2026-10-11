@@ -19,7 +19,7 @@
             "open_issues": 687,
             "owner": "dino",
             "repo": "dino",
-            "stars": 2496,
+            "stars": 2498,
             "topics": [
               "chat",
               "dino",
@@ -58,7 +58,7 @@
             "open_issues": 273,
             "owner": "redsolution",
             "repo": "xabber-android",
-            "stars": 1812,
+            "stars": 1811,
             "topics": [
               "android",
               "chat",
@@ -153,7 +153,7 @@
             "open_issues": 4,
             "owner": "younix",
             "repo": "sj",
-            "stars": 40,
+            "stars": 41,
             "topics": []
           },
           "first_seen": "2026-08-29T01:00:53.011Z"
@@ -180,7 +180,7 @@
             "open_issues": 553,
             "owner": "robbiehanson",
             "repo": "XMPPFramework",
-            "stars": 5873,
+            "stars": 5874,
             "topics": []
           },
           "first_seen": "2026-08-29T01:00:53.011Z"
@@ -201,7 +201,7 @@
             "open_issues": 35,
             "owner": "xmppjs",
             "repo": "xmpp.js",
-            "stars": 2278,
+            "stars": 2279,
             "topics": [
               "browser",
               "chat",
@@ -459,11 +459,11 @@
             "id": 37983532,
             "language": "PHP",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-09T09:35:38Z",
-            "open_issues": 43,
+            "last_commit": "2026-10-11T19:50:30Z",
+            "open_issues": 45,
             "owner": "movim",
             "repo": "movim",
-            "stars": 2062,
+            "stars": 2063,
             "topics": [
               "chat",
               "instant-messaging",
@@ -506,7 +506,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T20:35:56.923Z",
+    "last_updated": "2026-10-11T20:59:50.310Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of delightful XMPP related resources.",
@@ -518,7 +518,7 @@
       "open_issues": 13,
       "owner": "bluszcz",
       "repo": "awesome-xmpp",
-      "stars": 385,
+      "stars": 386,
       "topics": [
         "awesome",
         "awesome-list",
