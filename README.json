@@ -19,7 +19,7 @@
             "open_issues": 687,
             "owner": "dino",
             "repo": "dino",
-            "stars": 2498,
+            "stars": 2499,
             "topics": [
               "chat",
               "dino",
@@ -123,7 +123,7 @@
             "open_issues": 23,
             "owner": "redsolution",
             "repo": "xabber-web",
-            "stars": 137,
+            "stars": 136,
             "topics": [
               "chat",
               "jabber",
@@ -201,7 +201,7 @@
             "open_issues": 35,
             "owner": "xmppjs",
             "repo": "xmpp.js",
-            "stars": 2279,
+            "stars": 2278,
             "topics": [
               "browser",
               "chat",
@@ -460,7 +460,7 @@
             "language": "PHP",
             "license": "AGPL-3.0",
             "last_commit": "2026-10-11T19:50:30Z",
-            "open_issues": 45,
+            "open_issues": 44,
             "owner": "movim",
             "repo": "movim",
             "stars": 2063,
@@ -506,7 +506,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T20:59:50.310Z",
+    "last_updated": "2026-10-12T23:39:36.613Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of delightful XMPP related resources.",
@@ -518,7 +518,7 @@
       "open_issues": 13,
       "owner": "bluszcz",
       "repo": "awesome-xmpp",
-      "stars": 386,
+      "stars": 387,
       "topics": [
         "awesome",
         "awesome-list",
