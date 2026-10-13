@@ -459,11 +459,11 @@
             "id": 37983532,
             "language": "PHP",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-11T19:50:30Z",
-            "open_issues": 44,
+            "last_commit": "2026-10-13T20:31:49Z",
+            "open_issues": 43,
             "owner": "movim",
             "repo": "movim",
-            "stars": 2063,
+            "stars": 2064,
             "topics": [
               "chat",
               "instant-messaging",
@@ -506,7 +506,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T23:39:36.613Z",
+    "last_updated": "2026-10-13T21:53:40.936Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of delightful XMPP related resources.",
