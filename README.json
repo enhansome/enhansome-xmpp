@@ -19,7 +19,7 @@
             "open_issues": 687,
             "owner": "dino",
             "repo": "dino",
-            "stars": 2499,
+            "stars": 2500,
             "topics": [
               "chat",
               "dino",
@@ -459,11 +459,11 @@
             "id": 37983532,
             "language": "PHP",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-13T20:31:49Z",
-            "open_issues": 43,
+            "last_commit": "2026-10-14T20:35:40Z",
+            "open_issues": 41,
             "owner": "movim",
             "repo": "movim",
-            "stars": 2064,
+            "stars": 2065,
             "topics": [
               "chat",
               "instant-messaging",
@@ -506,7 +506,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T21:53:40.936Z",
+    "last_updated": "2026-10-14T20:47:00.813Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of delightful XMPP related resources.",
@@ -518,7 +518,7 @@
       "open_issues": 13,
       "owner": "bluszcz",
       "repo": "awesome-xmpp",
-      "stars": 387,
+      "stars": 388,
       "topics": [
         "awesome",
         "awesome-list",
