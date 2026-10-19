@@ -16,10 +16,10 @@
             "language": "Vala",
             "license": "GPL-3.0",
             "last_commit": "2026-08-21T16:19:24Z",
-            "open_issues": 689,
+            "open_issues": 690,
             "owner": "dino",
             "repo": "dino",
-            "stars": 2501,
+            "stars": 2502,
             "topics": [
               "chat",
               "dino",
@@ -201,7 +201,7 @@
             "open_issues": 35,
             "owner": "xmppjs",
             "repo": "xmpp.js",
-            "stars": 2278,
+            "stars": 2279,
             "topics": [
               "browser",
               "chat",
@@ -250,7 +250,7 @@
             "id": 183068821,
             "language": "Swift",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-14T14:01:21Z",
+            "last_commit": "2026-10-19T08:05:08Z",
             "open_issues": 10,
             "owner": "tigase",
             "repo": "Martin",
@@ -459,7 +459,7 @@
             "id": 37983532,
             "language": "PHP",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-18T11:43:17Z",
+            "last_commit": "2026-10-19T18:09:25Z",
             "open_issues": 41,
             "owner": "movim",
             "repo": "movim",
@@ -506,7 +506,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T19:28:51.235Z",
+    "last_updated": "2026-10-19T21:35:57.836Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of delightful XMPP related resources.",
