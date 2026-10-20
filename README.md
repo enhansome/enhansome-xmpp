@@ -72,7 +72,7 @@ XMPP is an open XML technology for real-time communication, which powers a wide 
 ## Libraries
 
 * [XMPPFramework](https://github.com/robbiehanson/XMPPFramework) ⭐ 5,873 | 🐛 553 | 🌐 Objective-C | 📅 2024-04-22 - XMPP Framework in Objective-C for the Mac and iOS
-* [xmpp.js](https://github.com/xmppjs/xmpp.js) ⭐ 2,279 | 🐛 35 | 🌐 JavaScript | 📅 2026-09-03 - XMPP for JavaScript.
+* [xmpp.js](https://github.com/xmppjs/xmpp.js) ⭐ 2,279 | 🐛 36 | 🌐 JavaScript | 📅 2026-09-03 - XMPP for JavaScript.
 * [SleekXMPP](https://github.com/fritzy/SleekXMPP) ⚠️ Archived - Python 2.6+/3.1+ XMPP Library.
 * [Tigase Swift](https://github.com/tigaseinc/tigase-swift) ⭐ 78 | 🐛 10 | 🌐 Swift | 📅 2026-10-19 - Tigase Swift XMPP client library
 * [JaXMPP](https://github.com/tigaseinc/jaxmpp) ⭐ 43 | 🐛 2 | 🌐 Java | 📅 2026-10-08 - Java XMPP client library
@@ -99,7 +99,7 @@ XMPP is an open XML technology for real-time communication, which powers a wide 
 
 ## Advanced Usages
 
-* [Movim](https://github.com/movim/movim) ⭐ 2,065 | 🐛 41 | 🌐 PHP | 📅 2026-10-19 - Distributed social network built on top of XMPP.
+* [Movim](https://github.com/movim/movim) ⭐ 2,065 | 🐛 41 | 🌐 PHP | 📅 2026-10-20 - Distributed social network built on top of XMPP.
 * [Biboumi](https://github.com/louiz/biboumi) ⭐ 90 | 🐛 7 | 🌐 C++ | 📅 2022-03-10 - IRC gateway for XMPP.
 * [eagle](https://codeberg.org/eagle/eagle) - XMPP Groupware.
 * [go-sendxmpp](https://salsa.debian.org/mdosch/go-sendxmpp) - A little tool to send messages to an XMPP contact or MUC.
@@ -124,4 +124,4 @@ To the extent possible under law, [Rafal Zawadzki](https://bluszcz.net) has waiv
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-20._

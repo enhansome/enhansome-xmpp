@@ -198,7 +198,7 @@
             "language": "JavaScript",
             "license": "ISC",
             "last_commit": "2026-09-03T21:58:24Z",
-            "open_issues": 35,
+            "open_issues": 36,
             "owner": "xmppjs",
             "repo": "xmpp.js",
             "stars": 2279,
@@ -459,7 +459,7 @@
             "id": 37983532,
             "language": "PHP",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-19T18:09:25Z",
+            "last_commit": "2026-10-20T13:11:55Z",
             "open_issues": 41,
             "owner": "movim",
             "repo": "movim",
@@ -506,7 +506,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T21:35:57.836Z",
+    "last_updated": "2026-10-20T20:41:48.640Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of delightful XMPP related resources.",
