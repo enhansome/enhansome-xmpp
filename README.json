@@ -19,7 +19,7 @@
             "open_issues": 690,
             "owner": "dino",
             "repo": "dino",
-            "stars": 2502,
+            "stars": 2503,
             "topics": [
               "chat",
               "dino",
@@ -89,7 +89,7 @@
             "open_issues": 70,
             "owner": "coyim",
             "repo": "coyim",
-            "stars": 617,
+            "stars": 618,
             "topics": [
               "anonymity",
               "coyim",
@@ -282,7 +282,7 @@
             "language": "Java",
             "license": "AGPL-3.0",
             "last_commit": "2026-10-08T14:21:54Z",
-            "open_issues": 2,
+            "open_issues": 3,
             "owner": "tigase",
             "repo": "jaxmpp",
             "stars": 43,
@@ -506,7 +506,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T20:41:48.640Z",
+    "last_updated": "2026-10-21T20:42:22.767Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of delightful XMPP related resources.",
@@ -518,7 +518,7 @@
       "open_issues": 13,
       "owner": "bluszcz",
       "repo": "awesome-xmpp",
-      "stars": 388,
+      "stars": 389,
       "topics": [
         "awesome",
         "awesome-list",

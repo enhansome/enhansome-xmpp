@@ -27,9 +27,9 @@ XMPP is an open XML technology for real-time communication, which powers a wide 
 
 ## Clients
 
-* [Dino](https://github.com/dino/dino) ⭐ 2,502 | 🐛 690 | 🌐 Vala | 📅 2026-08-21 - Modern Jabber/XMPP Client using GTK+/Vala.
+* [Dino](https://github.com/dino/dino) ⭐ 2,503 | 🐛 690 | 🌐 Vala | 📅 2026-08-21 - Modern Jabber/XMPP Client using GTK+/Vala.
 * [Xabber Android](https://github.com/redsolution/xabber-android) ⭐ 1,811 | 🐛 273 | 🌐 Java | 📅 2026-01-21 - Android version of Xabber
-* [Coyim](https://github.com/coyim/coyim) ⭐ 617 | 🐛 70 | 🌐 Go | 📅 2026-07-10 - Safe and secure chat client.
+* [Coyim](https://github.com/coyim/coyim) ⭐ 618 | 🐛 70 | 🌐 Go | 📅 2026-07-10 - Safe and secure chat client.
 * [Xabber Web](https://github.com/redsolution/xabber-web) ⭐ 136 | 🐛 23 | 🌐 JavaScript | 📅 2026-03-12 - Web version of Xabber.
 * [sj](https://github.com/younix/sj) ⭐ 41 | 🐛 4 | 🌐 C | 📅 2026-05-14 - simple jabber client
 * [Adium](https://adium.im/) - Open source multi-protocol instant messaging client for Mac OS X.
@@ -75,7 +75,7 @@ XMPP is an open XML technology for real-time communication, which powers a wide 
 * [xmpp.js](https://github.com/xmppjs/xmpp.js) ⭐ 2,279 | 🐛 36 | 🌐 JavaScript | 📅 2026-09-03 - XMPP for JavaScript.
 * [SleekXMPP](https://github.com/fritzy/SleekXMPP) ⚠️ Archived - Python 2.6+/3.1+ XMPP Library.
 * [Tigase Swift](https://github.com/tigaseinc/tigase-swift) ⭐ 78 | 🐛 10 | 🌐 Swift | 📅 2026-10-19 - Tigase Swift XMPP client library
-* [JaXMPP](https://github.com/tigaseinc/jaxmpp) ⭐ 43 | 🐛 2 | 🌐 Java | 📅 2026-10-08 - Java XMPP client library
+* [JaXMPP](https://github.com/tigaseinc/jaxmpp) ⭐ 43 | 🐛 3 | 🌐 Java | 📅 2026-10-08 - Java XMPP client library
 * [PyXMPP](https://github.com/Jajcus/pyxmpp) ⚠️ Archived - Python Jabber/XMPP implementation.
 * [Babbler](https://github.com/sco0ter/babbler) ⭐ 8 | 🐛 36 | 🌐 Java | 📅 2023-01-08 - a young Java XMPP client library based on JAXB.
 * [Swiften](https://swift.im/swiften.html) - Cross-platform, and performant C++.
@@ -124,4 +124,4 @@ To the extent possible under law, [Rafal Zawadzki](https://bluszcz.net) has waiv
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-21._
