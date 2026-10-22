@@ -463,7 +463,7 @@
             "open_issues": 41,
             "owner": "movim",
             "repo": "movim",
-            "stars": 2065,
+            "stars": 2066,
             "topics": [
               "chat",
               "instant-messaging",
@@ -506,7 +506,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T20:42:22.767Z",
+    "last_updated": "2026-10-22T20:37:02.248Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of delightful XMPP related resources.",
@@ -518,7 +518,7 @@
       "open_issues": 13,
       "owner": "bluszcz",
       "repo": "awesome-xmpp",
-      "stars": 389,
+      "stars": 390,
       "topics": [
         "awesome",
         "awesome-list",
