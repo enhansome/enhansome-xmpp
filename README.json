@@ -16,10 +16,10 @@
             "language": "Vala",
             "license": "GPL-3.0",
             "last_commit": "2026-10-24T09:52:25Z",
-            "open_issues": 689,
+            "open_issues": 690,
             "owner": "dino",
             "repo": "dino",
-            "stars": 2503,
+            "stars": 2504,
             "topics": [
               "chat",
               "dino",
@@ -89,7 +89,7 @@
             "open_issues": 70,
             "owner": "coyim",
             "repo": "coyim",
-            "stars": 618,
+            "stars": 619,
             "topics": [
               "anonymity",
               "coyim",
@@ -506,7 +506,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T19:45:39.050Z",
+    "last_updated": "2026-10-26T21:40:25.710Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of delightful XMPP related resources.",
