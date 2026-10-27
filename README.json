@@ -19,7 +19,7 @@
             "open_issues": 690,
             "owner": "dino",
             "repo": "dino",
-            "stars": 2504,
+            "stars": 2505,
             "topics": [
               "chat",
               "dino",
@@ -201,7 +201,7 @@
             "open_issues": 36,
             "owner": "xmppjs",
             "repo": "xmpp.js",
-            "stars": 2279,
+            "stars": 2281,
             "topics": [
               "browser",
               "chat",
@@ -506,7 +506,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T21:40:25.710Z",
+    "last_updated": "2026-10-27T21:23:28.059Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of delightful XMPP related resources.",
