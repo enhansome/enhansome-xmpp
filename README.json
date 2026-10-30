@@ -16,10 +16,10 @@
             "language": "Vala",
             "license": "GPL-3.0",
             "last_commit": "2026-10-24T09:52:25Z",
-            "open_issues": 691,
+            "open_issues": 690,
             "owner": "dino",
             "repo": "dino",
-            "stars": 2506,
+            "stars": 2505,
             "topics": [
               "chat",
               "dino",
@@ -180,7 +180,7 @@
             "open_issues": 553,
             "owner": "robbiehanson",
             "repo": "XMPPFramework",
-            "stars": 5874,
+            "stars": 5873,
             "topics": []
           },
           "first_seen": "2026-08-29T01:00:53.011Z"
@@ -506,7 +506,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T21:52:27.650Z",
+    "last_updated": "2026-10-30T21:36:06.643Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of delightful XMPP related resources.",
