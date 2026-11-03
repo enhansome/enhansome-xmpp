@@ -16,10 +16,10 @@
             "language": "Vala",
             "license": "GPL-3.0",
             "last_commit": "2026-10-31T09:08:03Z",
-            "open_issues": 689,
+            "open_issues": 690,
             "owner": "dino",
             "repo": "dino",
-            "stars": 2505,
+            "stars": 2506,
             "topics": [
               "chat",
               "dino",
@@ -58,7 +58,7 @@
             "open_issues": 273,
             "owner": "redsolution",
             "repo": "xabber-android",
-            "stars": 1809,
+            "stars": 1810,
             "topics": [
               "android",
               "chat",
@@ -201,7 +201,7 @@
             "open_issues": 36,
             "owner": "xmppjs",
             "repo": "xmpp.js",
-            "stars": 2281,
+            "stars": 2282,
             "topics": [
               "browser",
               "chat",
@@ -459,11 +459,11 @@
             "id": 37983532,
             "language": "PHP",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-02T19:14:03Z",
-            "open_issues": 41,
+            "last_commit": "2026-11-03T12:53:14Z",
+            "open_issues": 42,
             "owner": "movim",
             "repo": "movim",
-            "stars": 2069,
+            "stars": 2071,
             "topics": [
               "chat",
               "instant-messaging",
@@ -506,7 +506,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T23:55:55.506Z",
+    "last_updated": "2026-11-03T22:23:12.004Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of delightful XMPP related resources.",
