@@ -19,7 +19,7 @@
             "open_issues": 690,
             "owner": "dino",
             "repo": "dino",
-            "stars": 2506,
+            "stars": 2507,
             "topics": [
               "chat",
               "dino",
@@ -58,7 +58,7 @@
             "open_issues": 273,
             "owner": "redsolution",
             "repo": "xabber-android",
-            "stars": 1810,
+            "stars": 1811,
             "topics": [
               "android",
               "chat",
@@ -201,7 +201,7 @@
             "open_issues": 36,
             "owner": "xmppjs",
             "repo": "xmpp.js",
-            "stars": 2281,
+            "stars": 2282,
             "topics": [
               "browser",
               "chat",
@@ -460,7 +460,7 @@
             "language": "PHP",
             "license": "AGPL-3.0",
             "last_commit": "2026-11-04T19:01:10Z",
-            "open_issues": 43,
+            "open_issues": 45,
             "owner": "movim",
             "repo": "movim",
             "stars": 2071,
@@ -491,7 +491,7 @@
             "open_issues": 7,
             "owner": "louiz",
             "repo": "biboumi",
-            "stars": 90,
+            "stars": 91,
             "topics": [
               "c-plus-plus",
               "gateway",
@@ -506,7 +506,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T22:41:42.075Z",
+    "last_updated": "2026-11-05T22:42:55.971Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of delightful XMPP related resources.",
@@ -518,7 +518,7 @@
       "open_issues": 12,
       "owner": "bluszcz",
       "repo": "awesome-xmpp",
-      "stars": 390,
+      "stars": 391,
       "topics": [
         "awesome",
         "awesome-list",
