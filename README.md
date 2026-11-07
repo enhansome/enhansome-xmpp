@@ -27,7 +27,7 @@ XMPP is an open XML technology for real-time communication, which powers a wide 
 
 ## Clients
 
-* [Dino](https://github.com/dino/dino) ⭐ 2,506 | 🐛 690 | 🌐 Vala | 📅 2026-10-31 - Modern Jabber/XMPP Client using GTK+/Vala.
+* [Dino](https://github.com/dino/dino) ⭐ 2,506 | 🐛 690 | 🌐 Vala | 📅 2026-11-07 - Modern Jabber/XMPP Client using GTK+/Vala.
 * [Xabber Android](https://github.com/redsolution/xabber-android) ⭐ 1,811 | 🐛 273 | 🌐 Java | 📅 2026-01-21 - Android version of Xabber
 * [Coyim](https://github.com/coyim/coyim) ⭐ 619 | 🐛 70 | 🌐 Go | 📅 2026-07-10 - Safe and secure chat client.
 * [Xabber Web](https://github.com/redsolution/xabber-web) ⭐ 137 | 🐛 23 | 🌐 JavaScript | 📅 2026-03-12 - Web version of Xabber.
@@ -71,13 +71,13 @@ XMPP is an open XML technology for real-time communication, which powers a wide 
 
 ## Libraries
 
-* [XMPPFramework](https://github.com/robbiehanson/XMPPFramework) ⭐ 5,873 | 🐛 553 | 🌐 Objective-C | 📅 2024-04-22 - XMPP Framework in Objective-C for the Mac and iOS
+* [XMPPFramework](https://github.com/robbiehanson/XMPPFramework) ⭐ 5,874 | 🐛 553 | 🌐 Objective-C | 📅 2024-04-22 - XMPP Framework in Objective-C for the Mac and iOS
 * [xmpp.js](https://github.com/xmppjs/xmpp.js) ⭐ 2,282 | 🐛 36 | 🌐 JavaScript | 📅 2026-09-03 - XMPP for JavaScript.
 * [SleekXMPP](https://github.com/fritzy/SleekXMPP) ⚠️ Archived - Python 2.6+/3.1+ XMPP Library.
 * [Tigase Swift](https://github.com/tigaseinc/tigase-swift) ⭐ 78 | 🐛 10 | 🌐 Swift | 📅 2026-10-19 - Tigase Swift XMPP client library
 * [JaXMPP](https://github.com/tigaseinc/jaxmpp) ⭐ 43 | 🐛 0 | 🌐 Java | 📅 2026-10-29 - Java XMPP client library
 * [PyXMPP](https://github.com/Jajcus/pyxmpp) ⚠️ Archived - Python Jabber/XMPP implementation.
-* [Babbler](https://github.com/sco0ter/babbler) ⭐ 9 | 🐛 36 | 🌐 Java | 📅 2023-01-08 - a young Java XMPP client library based on JAXB.
+* [Babbler](https://github.com/sco0ter/babbler) ⭐ 10 | 🐛 36 | 🌐 Java | 📅 2023-01-08 - a young Java XMPP client library based on JAXB.
 * [Swiften](https://swift.im/swiften.html) - Cross-platform, and performant C++.
 * [Verse](http://code.matthewwild.co.uk/) - XMPP client library written in Lua
 * [xmpp-rs](https://gitlab.com/xmpp-rs/xmpp-rs) - XMPP for Rust.
@@ -99,7 +99,7 @@ XMPP is an open XML technology for real-time communication, which powers a wide 
 
 ## Advanced Usages
 
-* [Movim](https://github.com/movim/movim) ⭐ 2,073 | 🐛 43 | 🌐 PHP | 📅 2026-11-06 - Distributed social network built on top of XMPP.
+* [Movim](https://github.com/movim/movim) ⭐ 2,073 | 🐛 42 | 🌐 PHP | 📅 2026-11-07 - Distributed social network built on top of XMPP.
 * [Biboumi](https://github.com/louiz/biboumi) ⭐ 91 | 🐛 7 | 🌐 C++ | 📅 2022-03-10 - IRC gateway for XMPP.
 * [eagle](https://codeberg.org/eagle/eagle) - XMPP Groupware.
 * [go-sendxmpp](https://salsa.debian.org/mdosch/go-sendxmpp) - A little tool to send messages to an XMPP contact or MUC.
@@ -124,4 +124,4 @@ To the extent possible under law, [Rafal Zawadzki](https://bluszcz.net) has waiv
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._
