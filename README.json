@@ -58,7 +58,7 @@
             "open_issues": 273,
             "owner": "redsolution",
             "repo": "xabber-android",
-            "stars": 1811,
+            "stars": 1810,
             "topics": [
               "android",
               "chat",
@@ -89,7 +89,7 @@
             "open_issues": 70,
             "owner": "coyim",
             "repo": "coyim",
-            "stars": 619,
+            "stars": 620,
             "topics": [
               "anonymity",
               "coyim",
@@ -459,11 +459,11 @@
             "id": 37983532,
             "language": "PHP",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-09T22:25:31Z",
+            "last_commit": "2026-11-10T08:15:59Z",
             "open_issues": 44,
             "owner": "movim",
             "repo": "movim",
-            "stars": 2075,
+            "stars": 2076,
             "topics": [
               "chat",
               "instant-messaging",
@@ -506,7 +506,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T00:44:33.349Z",
+    "last_updated": "2026-11-10T22:25:48.082Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of delightful XMPP related resources.",
