@@ -15,8 +15,8 @@
             "id": 83687700,
             "language": "Vala",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-07T15:18:49Z",
-            "open_issues": 690,
+            "last_commit": "2026-11-08T21:53:23Z",
+            "open_issues": 689,
             "owner": "dino",
             "repo": "dino",
             "stars": 2506,
@@ -180,7 +180,7 @@
             "open_issues": 553,
             "owner": "robbiehanson",
             "repo": "XMPPFramework",
-            "stars": 5874,
+            "stars": 5873,
             "topics": []
           },
           "first_seen": "2026-08-29T01:00:53.011Z"
@@ -459,11 +459,11 @@
             "id": 37983532,
             "language": "PHP",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-07T17:39:54Z",
-            "open_issues": 42,
+            "last_commit": "2026-11-09T22:25:31Z",
+            "open_issues": 44,
             "owner": "movim",
             "repo": "movim",
-            "stars": 2074,
+            "stars": 2075,
             "topics": [
               "chat",
               "instant-messaging",
@@ -506,7 +506,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T21:14:43.945Z",
+    "last_updated": "2026-11-10T00:44:33.349Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of delightful XMPP related resources.",
