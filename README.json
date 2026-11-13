@@ -19,7 +19,7 @@
             "open_issues": 689,
             "owner": "dino",
             "repo": "dino",
-            "stars": 2506,
+            "stars": 2507,
             "topics": [
               "chat",
               "dino",
@@ -506,7 +506,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T22:46:27.461Z",
+    "last_updated": "2026-11-13T22:42:50.220Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of delightful XMPP related resources.",
@@ -518,7 +518,7 @@
       "open_issues": 12,
       "owner": "bluszcz",
       "repo": "awesome-xmpp",
-      "stars": 391,
+      "stars": 393,
       "topics": [
         "awesome",
         "awesome-list",
