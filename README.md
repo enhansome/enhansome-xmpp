@@ -99,8 +99,8 @@ XMPP is an open XML technology for real-time communication, which powers a wide 
 
 ## Advanced Usages
 
-* [Movim](https://github.com/movim/movim) ⭐ 2,076 | 🐛 44 | 🌐 PHP | 📅 2026-11-12 - Distributed social network built on top of XMPP.
-* [Biboumi](https://github.com/louiz/biboumi) ⭐ 91 | 🐛 7 | 🌐 C++ | 📅 2022-03-10 - IRC gateway for XMPP.
+* [Movim](https://github.com/movim/movim) ⭐ 2,077 | 🐛 44 | 🌐 PHP | 📅 2026-11-12 - Distributed social network built on top of XMPP.
+* [Biboumi](https://github.com/louiz/biboumi) ⭐ 89 | 🐛 7 | 🌐 C++ | 📅 2022-03-10 - IRC gateway for XMPP.
 * [eagle](https://codeberg.org/eagle/eagle) - XMPP Groupware.
 * [go-sendxmpp](https://salsa.debian.org/mdosch/go-sendxmpp) - A little tool to send messages to an XMPP contact or MUC.
 * [Saros](http://www.saros-project.org/) - Real-time collaborative editor for eclipse projects.
@@ -124,4 +124,4 @@ To the extent possible under law, [Rafal Zawadzki](https://bluszcz.net) has waiv
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._
