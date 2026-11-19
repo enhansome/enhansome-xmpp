@@ -58,7 +58,7 @@
             "open_issues": 273,
             "owner": "redsolution",
             "repo": "xabber-android",
-            "stars": 1809,
+            "stars": 1808,
             "topics": [
               "android",
               "chat",
@@ -89,7 +89,7 @@
             "open_issues": 70,
             "owner": "coyim",
             "repo": "coyim",
-            "stars": 620,
+            "stars": 619,
             "topics": [
               "anonymity",
               "coyim",
@@ -180,7 +180,7 @@
             "open_issues": 553,
             "owner": "robbiehanson",
             "repo": "XMPPFramework",
-            "stars": 5873,
+            "stars": 5872,
             "topics": []
           },
           "first_seen": "2026-08-29T01:00:53.011Z"
@@ -201,7 +201,7 @@
             "open_issues": 36,
             "owner": "xmppjs",
             "repo": "xmpp.js",
-            "stars": 2282,
+            "stars": 2281,
             "topics": [
               "browser",
               "chat",
@@ -233,7 +233,7 @@
             "open_issues": 141,
             "owner": "fritzy",
             "repo": "SleekXMPP",
-            "stars": 1097,
+            "stars": 1096,
             "topics": []
           },
           "first_seen": "2026-08-29T01:00:53.011Z"
@@ -459,11 +459,11 @@
             "id": 37983532,
             "language": "PHP",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-16T21:15:00Z",
-            "open_issues": 45,
+            "last_commit": "2026-11-19T16:43:53Z",
+            "open_issues": 44,
             "owner": "movim",
             "repo": "movim",
-            "stars": 2079,
+            "stars": 2080,
             "topics": [
               "chat",
               "instant-messaging",
@@ -506,7 +506,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T23:26:00.337Z",
+    "last_updated": "2026-11-19T23:38:25.512Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of delightful XMPP related resources.",
