@@ -19,7 +19,7 @@
             "open_issues": 689,
             "owner": "dino",
             "repo": "dino",
-            "stars": 2509,
+            "stars": 2508,
             "topics": [
               "chat",
               "dino",
@@ -58,7 +58,7 @@
             "open_issues": 273,
             "owner": "redsolution",
             "repo": "xabber-android",
-            "stars": 1808,
+            "stars": 1807,
             "topics": [
               "android",
               "chat",
@@ -506,7 +506,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T22:34:37.658Z",
+    "last_updated": "2026-11-24T03:22:17.968Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of delightful XMPP related resources.",
