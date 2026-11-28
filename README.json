@@ -16,10 +16,10 @@
             "language": "Vala",
             "license": "GPL-3.0",
             "last_commit": "2026-11-11T15:52:11Z",
-            "open_issues": 689,
+            "open_issues": 690,
             "owner": "dino",
             "repo": "dino",
-            "stars": 2508,
+            "stars": 2509,
             "topics": [
               "chat",
               "dino",
@@ -89,7 +89,7 @@
             "open_issues": 70,
             "owner": "coyim",
             "repo": "coyim",
-            "stars": 619,
+            "stars": 620,
             "topics": [
               "anonymity",
               "coyim",
@@ -201,7 +201,7 @@
             "open_issues": 36,
             "owner": "xmppjs",
             "repo": "xmpp.js",
-            "stars": 2281,
+            "stars": 2282,
             "topics": [
               "browser",
               "chat",
@@ -254,7 +254,7 @@
             "open_issues": 10,
             "owner": "tigase",
             "repo": "Martin",
-            "stars": 78,
+            "stars": 79,
             "topics": [
               "apple",
               "client",
@@ -285,7 +285,7 @@
             "open_issues": 0,
             "owner": "tigase",
             "repo": "jaxmpp",
-            "stars": 43,
+            "stars": 44,
             "topics": [
               "android",
               "chat",
@@ -463,7 +463,7 @@
             "open_issues": 44,
             "owner": "movim",
             "repo": "movim",
-            "stars": 2082,
+            "stars": 2083,
             "topics": [
               "chat",
               "instant-messaging",
@@ -506,7 +506,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-27T01:03:37.616Z",
+    "last_updated": "2026-11-28T00:35:00.556Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of delightful XMPP related resources.",
